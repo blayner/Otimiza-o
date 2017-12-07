@@ -1,0 +1,38 @@
+{
+	"produtos": [
+		{
+			"nome": "Sandálias",
+			"Preco": 22,
+			"Couro": 0.3,
+			"Horas": 3,
+			"Pessoas": 1
+
+		},
+		{
+			"nome": "Sapatos",
+			"Preco": 48,
+			"Couro": 0.50,
+			"Horas": 2,
+			"Pessoas": 2
+		}
+		
+	],
+
+	"restricoes":[
+		{
+			"Couro": 15,
+			"Tipo": "<="
+		},
+		{
+			"Horas": 120,
+			"Tipo": "<="
+
+		},
+		{
+			"Pessoas": 15,
+			"Tipo": "<="
+		}
+	]
+
+	
+}
